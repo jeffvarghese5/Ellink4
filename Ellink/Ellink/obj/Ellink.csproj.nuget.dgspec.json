@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\firstperson\\Ellink\\Ellink\\Ellink.csproj": {}
+    "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\secondperson\\Ellink\\Ellink\\Ellink.csproj": {}
   },
   "projects": {
-    "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\firstperson\\Ellink\\Ellink\\Ellink.csproj": {
+    "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\secondperson\\Ellink\\Ellink\\Ellink.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\firstperson\\Ellink\\Ellink\\Ellink.csproj",
+        "projectUniqueName": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\secondperson\\Ellink\\Ellink\\Ellink.csproj",
         "projectName": "Ellink",
-        "projectPath": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\firstperson\\Ellink\\Ellink\\Ellink.csproj",
+        "projectPath": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\secondperson\\Ellink\\Ellink\\Ellink.csproj",
         "packagesPath": "C:\\Users\\jeffv\\.nuget\\packages\\",
-        "outputPath": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\firstperson\\Ellink\\Ellink\\obj\\",
+        "outputPath": "C:\\Holmes2\\Semester2\\CapstoneProject\\Session9\\secondperson\\Ellink\\Ellink\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
