@@ -20,8 +20,7 @@ app.UseRouting();
 
 app.UseAuthorization();//Hello second person
 
-app.MapRazorPages();//Hello11111111
+app.MapRazorPages();//Hello11111111ddddd
 
-app.Run();//djjjdfj
-
-app.Run();//dhfjhjfhhfjh
+app.Run();//hello1111 - This is local branch
+app.Run();//hello1111 - This is main branch
