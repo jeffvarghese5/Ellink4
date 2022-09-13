@@ -3,7 +3,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-var app = builder.Build();//Hello-st persondhhbhdfvgvffvnfnnvfnmvn
+var app = builder.Build();//Hello-st dfdffdfffsdf
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
