@@ -5,7 +5,7 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();//Hello-st dfdffdfffsdfcvcv fgbbgbbngfgfgfgvcvvcvc
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.ffggfgfgfbbvbvbv
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
