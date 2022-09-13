@@ -18,7 +18,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
+app.UseAuthorization();//Hello second person
 
 app.MapRazorPages();
 
