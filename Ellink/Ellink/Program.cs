@@ -20,6 +20,10 @@ app.UseRouting();
 
 app.UseAuthorization();//Hello second person
 
+
 app.MapRazorPages();//Hello11111111
+
+app.MapRazorPages();//Hello2222
+
 
 app.Run();//hello1111
