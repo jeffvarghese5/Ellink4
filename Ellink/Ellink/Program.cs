@@ -16,7 +16,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();//ggggg
 
-app.UseRouting();
+app.UseRouting();//This is a test for gitignore
 
 app.UseAuthorization();//Hello second person
 
