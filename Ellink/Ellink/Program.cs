@@ -1,4 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
+bool flag = true;
 
 // Add services to the container.
 builder.Services.AddRazorPages();
@@ -23,4 +24,5 @@ app.UseAuthorization();//Hello second person
 app.MapRazorPages();//Hello11111111ddddd
 
 app.Run();//hello1111 - This is local branch
-app.Run();//hello1111 - This is main branch
+if(flag==false) app.UseRouting();
+
